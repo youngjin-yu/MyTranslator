@@ -1,0 +1,30 @@
+
+}
+java:S1450&"[Remove the "standbyIndex" field and declare it as a local variable in the relevant methods.(—ÏÎÃûÿÿÿÿ8È˜ñ¶›.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(ó˜ë–8ØÒò¶›.
+N
+java:S1172Â"+Remove this unused method parameter "view".(˜³Ôşÿÿÿÿ8¯İî›.
+
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œªª8ıáéš.
+^	java:S125¡"<This block of commented-out lines of code should be removed.(ÁÄÙùÿÿÿÿ8‚Èó¶›.
+O
+java:S1068"-Remove this unused "colorSpan" private field.(‘×ÏÂøÿÿÿÿ8ØÒò¶›.
+>	java:S131c""Add a default case to this switch.(ºÖ8ıáéš.
+J
+java:S1068%"-Remove this unused "spannable" private field.(§·Š„8‚Èó¶›.
+x
+java:S1450 "VRemove the "playBtn" field and declare it as a local variable in the relevant methods.(™©‘åıÿÿÿÿ8ıáéš.
+h
+java:S1301c"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8ãŠæüš.
+X	java:S125Z"<This block of commented-out lines of code should be removed.(“¸¾Å8È˜ñ¶›.
+x
+java:S1450!"VRemove the "stopBtn" field and declare it as a local variable in the relevant methods.(ç˜·üÿÿÿÿ8ıáéš.
+S
+java:S1068'"1Remove this unused "lastPlayIndex" private field.(»Õäíúÿÿÿÿ8´ŠÑ¶›.
+]	java:S125w"<This block of commented-out lines of code should be removed.(„ó¶ºÿÿÿÿÿ8´ŠÑ¶›.
+R
+java:S1068&"0Remove this unused "standbyIndex" private field.(—ÏÎÃûÿÿÿÿ8È˜ñ¶›.
+~
+java:S1450'"\Remove the "lastPlayIndex" field and declare it as a local variable in the relevant methods.(»Õäíúÿÿÿÿ8È˜ñ¶›.
+Ÿ
+java:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8¯İî›.

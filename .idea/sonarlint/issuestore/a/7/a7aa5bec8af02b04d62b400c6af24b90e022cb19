@@ -1,0 +1,22 @@
+
+Ÿ
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´Ş†Š8Â¼¤›.
+r
+java:S1450"URemove the "sttBtn" field and declare it as a local variable in the relevant methods.(ñİÕÕ8×³¢›.
+Ÿ
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8Ô®Ö›.
+£
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰åµ¼ùÿÿÿÿ8Â¼¤›.
+C
+java:S1170"!Make this final field static too.(ó”óÌûÿÿÿÿ8×Ü ›.
+
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿Ñ‚¹8Â¼¤›.
+¤
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™«£¹ıÿÿÿÿ8Â¼¤›.
+£
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¾Ì¸úÿÿÿÿ8Â¼¤›.
+W
+java:S1117„":Rename "intent" which hides the field declared at line 26.(åÓ³8¶Šö›.
+v	java:S116"URename this field "PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó”óÌûÿÿÿÿ8×Ü ›.
+£
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇŠ¸Ğúÿÿÿÿ8Â¼¤›.

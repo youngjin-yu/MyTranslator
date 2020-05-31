@@ -1,0 +1,96 @@
+
+
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ÁŠ•¬›.
+F
+java:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©¶ğ­›.
+{
+java:S1104+"^Make ENGLISH_VOICE_SAVE a static final constant or non-public and provide accessors if needed.(ğ¾Áâ8§Áá›.
+x
+java:S3008,"VRename this field "WORD_DELETE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æã±Àıÿÿÿÿ8˜Îë­›.
+c
+java:S2147Ä"ECombine this catch with the one at line 194, which has the same body.(ä ¹€8ƒğ­›.
+F
+java:S1148Ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©¶ğ­›.
+~
+java:S1104-"aMake languageInfoArrayList a static final constant or non-public and provide accessors if needed.(”«ÿÔ8ÌŒÖ§›.
+R
+java:S3740…"/Provide the parametrized type for this generic.(ØòÉ„øÿÿÿÿ8ÄªÏË¦.
+K
+java:S1185¼"(Remove this method to simply inherit it.(Œÿµºøÿÿÿÿ8ƒğ­›.
+M
+java:S1172z"+Remove this unused method parameter "view".(÷İÄıÿÿÿÿ8¾åµ‚›.
+[
+java:S1444/"9Make this "public static recyclerViewAdapter" field final(‹Õµâşÿÿÿÿ8İÈÔ§›.
+]	java:S125D"<This block of commented-out lines of code should be removed.(ˆ‰éõÿÿÿÿÿ8ğä¯›.
+R
+java:S3740…"/Provide the parametrized type for this generic.(ØòÉ„øÿÿÿÿ8ÄªÏË¦.
+F
+java:S1185û"(Remove this method to simply inherit it.(ËĞƒ8ƒğ­›.
+X
+java:S1444-";Make this "public static languageInfoArrayList" field final(”«ÿÔ8ÌŒÖ§›.
+d
+java:S2142Ô"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©¶ğ­›.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÔ—8˜ŒÁ‚›.
+d
+java:S2142Ä"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒğ­›.
+^	java:S125ö"<This block of commented-out lines of code should be removed.(êå˜®ùÿÿÿÿ8ƒğ­›.
+‚
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8ƒğ­›.
+¬
+java:S1319."‰The type of the "languageInfoArrayListTemporary" object should be an interface such as "List" rather than the implementation "ArrayList".(“™„×ûÿÿÿÿ8¿Œñ¬›.
+£
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8ãü§¬›.
+T
+java:S1444*"7Make this "public static ENGLISH_TEXT_SAVE" field final(§ ³Ï8§Áá›.
+y
+java:S3008*"\Rename this field "ENGLISH_TEXT_SAVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ ³Ï8§Áá›.
+^	java:S125¯"<This block of commented-out lines of code should be removed.(¼¨Şòøÿÿÿÿ8ƒğ­›.
+S
+java:S1444,"1Make this "public static WORD_DELETE" field final(æã±Àıÿÿÿÿ8˜Îë­›.
+‚
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ8ƒğ­›.
+Œ
+java:S1104."jMake languageInfoArrayListTemporary a static final constant or non-public and provide accessors if needed.(“™„×ûÿÿÿÿ8¿Œñ¬›.
+
+java:S1319-"€The type of the "languageInfoArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(”«ÿÔ8İÈÔ§›.
+F
+java:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒğ­›.
+U
+java:S1444+"8Make this "public static ENGLISH_VOICE_SAVE" field final(ğ¾Áâ8§Áá›.
+F
+java:S1148Ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒğ­›.
+s	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØòÉ„øÿÿÿÿ8˜ŒÁ‚›.
+
+java:S1104/"_Make recyclerViewAdapter a static final constant or non-public and provide accessors if needed.(‹Õµâşÿÿÿÿ8İÈÔ§›.
+Q
+java:S10684"/Remove this unused "preferences" private field.(„€Àóûÿÿÿÿ8ğä¯›.
+G
+java:S10685"*Remove this unused "editor" private field.(–ñèˆ8§Ëà®›.
+p
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŸŒ¹Ñ8©¶ğ­›.
+Ÿ
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8˜ŒÁ‚›.
+b
+java:S1854c"@Remove this useless assignment to local variable "languageInfo".(’¿¤şÿÿÿÿ8€Öå¨›.
+y
+java:S1104,"WMake WORD_DELETE a static final constant or non-public and provide accessors if needed.(æã±Àıÿÿÿÿ8˜Îë­›.
+Y	java:S125£"<This block of commented-out lines of code should be removed.(Êşÿò8ƒğ­›.
+z
+java:S1104*"]Make ENGLISH_TEXT_SAVE a static final constant or non-public and provide accessors if needed.(§ ³Ï8§Áá›.
+I
+java:S1172ë"+Remove this unused method parameter "view".(Ë»Á¾8ƒğ­›.
+c
+java:S2147Ô"ECombine this catch with the one at line 210, which has the same body.(ä ¹€8©¶ğ­›.
+o	java:S1163"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦€şÿÿÿÿ8¹àØ§›.
+f
+java:S1444."DMake this "public static languageInfoArrayListTemporary" field final(“™„×ûÿÿÿÿ8¿Œñ¬›.
+z
+java:S3008+"]Rename this field "ENGLISH_VOICE_SAVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¾Áâ8§Áá›.
+D
+java:S1172•"&Remove these unused method parameters.(¦Œœ¢8˜ŒÁ‚›.
+b
+java:S1854n"@Remove this useless assignment to local variable "languageInfo".(’¿¤şÿÿÿÿ8­ãı¬›.
+U
+java:S1874¨"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ8éïÈÎ¦.
+K
+java:S1874©"-Remove this use of "parse"; it is deprecated.(³Ò¡•8éïÈÎ¦.
